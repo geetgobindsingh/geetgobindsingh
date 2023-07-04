@@ -10,7 +10,7 @@
 
 ---
 
-<img align="left" alt="Geet Gobind Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=geetgobindsingh&show-icons=true&hide_border=true" />
+<!-- <img align="left" alt="Geet Gobind Singh's github stats" src="https://github-readme-stats.vercel.app/api?username=geetgobindsingh&show-icons=true&hide_border=true" /> -->
 
 <img align="right" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetgobindsingh" />
 
