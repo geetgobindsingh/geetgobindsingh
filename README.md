@@ -49,15 +49,57 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<h3>Open source projects</h3>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>🎁 Projects</b></td>
+      <td><b>⭐ Stars</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>🏷️ Stack</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/geetgobindsingh/Furtastic-MVI"><b>Furtastic-MVI</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/geetgobindsingh/Furtastic-MVI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/geetgobindsingh/Furtastic-MVI?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/geetgobindsingh/Furtastic-MVI?style=flat-square&labelColor=343b41"/></td>
+      <td><b>multi module, MVI, jetpack-compose, coroutine, flow, , koin, ktor, sqldelight, gradle version-catalog</b></td>
+    </tr>  
+     <tr>
+      <td><a href="https://github.com/geetgobindsingh/GithubRepoApp"><b>GithubRepoApp</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/geetgobindsingh/GithubRepoApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/geetgobindsingh/GithubRepoApp?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/geetgobindsingh/GithubRepoApp?style=flat-square&labelColor=343b41"/></td>
+      <td><b>MVVM, hilt, retrofit, livedata, unit-testing</b></td>
+    </tr>
+   <tr>
+      <td><a href="https://github.com/geetgobindsingh/AndroidAnimationInterpolator"><b>AndroidAnimationInterpolator</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/geetgobindsingh/AndroidAnimationInterpolator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/geetgobindsingh/AndroidAnimationInterpolator?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/geetgobindsingh/AndroidAnimationInterpolator?style=flat-square&labelColor=343b41"/></td>
+      <td><b>animation, interpolator</b></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/geetgobindsingh/Handwritten-digits-recognition-keras"><b>Handwritten-digits-recognition-keras</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/geetgobindsingh/Handwritten-digits-recognition-keras?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/geetgobindsingh/Handwritten-digits-recognition-keras?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/geetgobindsingh/Handwritten-digits-recognition-keras?style=flat-square&labelColor=343b41"/></td>
+      <td><b>keras, numpy, sklearn, pandas, scipy</b></td>
+    </tr>
+  </tbody>
+</table>
+
 #### :fire: My Stats :
 <div>
   <img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=geetgobindsingh" />  
 </div>
 
----
+
 #### :writing_hand: Blog Posts :
 <div>
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geetgobindsingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geetgobindsingh/0" alt="Recent article #1"></a>
+  <a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@geetgobindsingh/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@geetgobindsingh/0" alt="Recent article #1"></a>
 </div>
 
