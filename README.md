@@ -21,9 +21,9 @@
 
 #### I'm Geet Gobind Singh.
 
-- 🌱 I’m currently learning Jetpack Compose
-- 👯 I'm looking to collaborate on Android Project.
-- 💬 Talk to me about Android, Kotlin, java, React JS, MLAI, and books.
+- 🌱 I’m currently learning Jetpack Compose and iOS app development using Swift.
+- 👯 I'm looking to collaborate on the Android Project.
+- 💬 Talk to me about Android, Kotlin, Java, React JS, MLAI, and books.
 
 #### :hammer_and_wrench: Languages and Tools :
 <div>
